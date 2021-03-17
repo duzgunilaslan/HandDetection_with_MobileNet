@@ -4,3 +4,7 @@ The main purpose of the model is to make it easier and more convenient for stude
 
 You can use the model directly.
 If you use the json file for javascript project, you can find in the tensorflowjs file.
+![no](https://user-images.githubusercontent.com/74202972/111504976-3242a680-8759-11eb-80e5-dfde132bb615.jpg)
+
+
+![yes](https://user-images.githubusercontent.com/74202972/111504981-32db3d00-8759-11eb-8460-429299e2a629.jpg)
